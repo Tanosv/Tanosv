@@ -1,6 +1,6 @@
 # Hi, I'm Tanguy 👋
 
-Full-Stack Developer with a background in English teaching and a past life as a professional Dungeon Master — I've always been in the business of building worlds, crafting stories, and guiding people through complex systems. Now I do it with code.
+Full-Stack Developer with a background in English teaching and a past life as a professional Dungeon Master. I've always been in the business of building worlds, crafting stories, and guiding people through complex systems. Now I do it with code.
 
 Currently leveling up as a Junior Developer, open to job opportunities in web development.
 
@@ -10,7 +10,7 @@ Currently leveling up as a Junior Developer, open to job opportunities in web de
 
 From leading parties through homebrewed campaigns to teaching English grammar to skeptical teenagers, I've spent years making complex things clear and engaging. These days, I channel that same energy into building clean, thoughtful web applications.
 
-I love the architecture side of things — designing systems that *make sense*, writing code that reads like a good story, and shipping products that actually solve problems.
+I love the architecture side of things and designing systems that *make sense*, writing code that reads like a good story, and shipping products that actually solve problems.
 
 📍 Based in France &nbsp;|&nbsp; 🎲 Former DM &nbsp;|&nbsp; 🧑‍🏫 Former English Teacher &nbsp;|&nbsp; 💻 Current Dev
 
